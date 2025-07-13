@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZgqtkFy/lY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vovab\\source\\repos\\MDS\\MDS\\MDS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vovab\\.nuget\\packages\\fftsharp\\2.2.0\\fftsharp.2.2.0.nupkg.sha512",
+    "C:\\Users\\vovab\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\vovab\\.nuget\\packages\\oxyplot.wpf\\2.2.0\\oxyplot.wpf.2.2.0.nupkg.sha512",
+    "C:\\Users\\vovab\\.nuget\\packages\\oxyplot.wpf.shared\\2.2.0\\oxyplot.wpf.shared.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

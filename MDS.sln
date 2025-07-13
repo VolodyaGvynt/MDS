@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDS", "MDS\MDS.csproj", "{9379186D-45A9-4135-93FE-D20051BC9604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9379186D-45A9-4135-93FE-D20051BC9604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9379186D-45A9-4135-93FE-D20051BC9604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9379186D-45A9-4135-93FE-D20051BC9604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9379186D-45A9-4135-93FE-D20051BC9604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BFD4910-F09F-4D19-B0FC-A706437F1A57}
+	EndGlobalSection
+EndGlobal
